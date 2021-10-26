@@ -1,6 +1,6 @@
 The RieszBox.jl package is licensed under the MIT "Expat" License:
 
-> Copyright (c) 2021: Djalil Chafai.
+> Copyright (c) 2021: Djalil Chafai, Simon Coste, Eric Vanden-Eijnden.
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
