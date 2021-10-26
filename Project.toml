@@ -1,0 +1,15 @@
+name = "RieszBox"
+uuid = "f1e09371-3831-4a9c-ae25-639cf2b0c4a7"
+authors = ["Djalil Chafai <djalil@free.fr>"]
+version = "0.1.0"
+
+[deps]
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
+
+[compat]
+julia = "^1"
